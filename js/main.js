@@ -2,9 +2,9 @@
 
 var GitHub = require('./github');
 var config = {
-   username: 'mjid1989',
+   username: '',
 <<<<<<< HEAD
-   password: 'Mjid79668011', // Either your password or an authentication token if two-factor authentication is enabled
+   password: '', // Either your password or an authentication token if two-factor authentication is enabled
    auth: 'basic',
    repository: 'test2',
 =======
